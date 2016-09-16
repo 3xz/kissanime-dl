@@ -1,4 +1,4 @@
-# KissAnime-DL
+# kissanime-dl
 
 Python script to download a season of anime.
 
